@@ -23,7 +23,7 @@ Prerequisites
 
 ## 🚀 Getting Started
 
-Instructions on how to run both backend and frontend locally can be added here.
+Instructions on how to run frontend locally can be added here.
 
 Environment Setup
 1. Clone the repository:
