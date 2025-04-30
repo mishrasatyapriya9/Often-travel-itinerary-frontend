@@ -35,13 +35,16 @@ cd Often-travel-itinerary-frontend
 
 2. Install dependencies:
 
-```
+```bash
 npm install
 # or
 yarn install
+```
 
-Running the Application
-Start the development server:
+##Running the Application
+##Start the development server:
+```bash
+
 npm run dev
 # or
 yarn dev
